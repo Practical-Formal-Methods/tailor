@@ -1,0 +1,13 @@
+tailor/home.py
+/build/
+/debug/
+/ext/
+crab/
+llvm-dsa/
+llvm-seahorn/
+sea-dsa/
+dist/
+__pycache__/
+*.egg-info/
+venv/
+tailor/temp
