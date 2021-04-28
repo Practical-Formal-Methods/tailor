@@ -61,7 +61,7 @@ python setup.py install
 
 # Don't want to install?
 You can also use our CAV artifact which is packaged as a VM image with everything
-pre-configured and pre-installed. Download the VM imgage from [here](https://zenodo.org/record/4719604#.YIaYzC0RpQM).
+pre-configured and pre-installed. Download the VM image from [here](https://zenodo.org/record/4719604#.YIaYzC0RpQM).
 
 ### How to run the VM?
 Download the above OVA file. Start VirtualBox, click on File -> Import Appliance,
