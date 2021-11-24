@@ -1,6 +1,4 @@
-<img src="https://numairmansur.github.io/tailor.png" width="230"/><img src="https://upload.wikimedia.org/wikipedia/en/4/4c/LLVM_Logo.svg" alt="llvm logo" width=280 height=180 /><img src="http://i.imgur.com/IDKhq5h.png" alt="crab logo" width=260 height=180 />
-
-<a href="https://travis-ci.org/seahorn/crab-llvm"><img src="https://travis-ci.org/seahorn/crab-llvm.svg?branch=master" title="Ubuntu 16.04 LTS 64bit, g++-5"/></a>
+<img src="https://numairmansur.github.io/tailor.png" width="230"/><img src="https://llvm.org/img/LLVMWyvernSmall.png" alt="llvm logo" width=280 height=200 /><img src="http://i.imgur.com/IDKhq5h.png" alt="crab logo" width=280 height=200 /> 
 
 Tailor is a framework to automatically tune **CRAB** abstract interpreter to the code
 under analysis and any given resource constraints. 
